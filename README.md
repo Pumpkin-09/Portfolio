@@ -18,7 +18,7 @@ Ce portfolio statique est construit avec les technologies fondamentales du déve
 
 ## 🔗 Accès au Site
 
-Le site est hébergé via **GitHub Pages** :
+Le site est hébergé via **Render** :
 
 <a href="https://pumpkin-09.github.io/" target="_blank">**Visiter le Portfolio en Ligne** 🌐</a>
 
